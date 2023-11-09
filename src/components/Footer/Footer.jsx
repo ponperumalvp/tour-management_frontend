@@ -22,7 +22,7 @@ const Footer = () => {
   const quick_links2 = [
     {
       path: "/gallery",
-      display: "Gallery",
+      display: "Gallery ",
     },
     {
       path: "/login",
